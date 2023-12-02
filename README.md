@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @XenomLight
-- 👀 I’m interested in HTML,CSS,JS,AND PYTHON
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...Web developer
-- 📫 How to reach me ...you can send an email to xenomlight@gmail.com
+qwerty
+
 
 <!---
 XenomLight/XenomLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
